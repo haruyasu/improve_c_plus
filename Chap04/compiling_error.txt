@@ -1,0 +1,9 @@
+C:\Users\haruyasu\AppData\Local\Temp\ccolJGUg.o:numword_test.cpp:(.text+0x3a): undefined reference to `bw::numword::words(unsigned long long)'
+C:\Users\haruyasu\AppData\Local\Temp\ccolJGUg.o:numword_test.cpp:(.text+0x6b): undefined reference to `bw::numword::words(unsigned long long)'
+C:\Users\haruyasu\AppData\Local\Temp\ccolJGUg.o:numword_test.cpp:(.text+0x9c): undefined reference to `bw::numword::words(unsigned long long)'
+C:\Users\haruyasu\AppData\Local\Temp\ccolJGUg.o:numword_test.cpp:(.text+0xcd): undefined reference to `bw::numword::words(unsigned long long)'
+C:\Users\haruyasu\AppData\Local\Temp\ccolJGUg.o:numword_test.cpp:(.text+0xfe): undefined reference to `bw::numword::words(unsigned long long)'
+C:\Users\haruyasu\AppData\Local\Temp\ccolJGUg.o:numword_test.cpp:(.text+0x12f): more undefined references to `bw::numword::words(unsigned long long)' follow
+C:\Users\haruyasu\AppData\Local\Temp\ccolJGUg.o:numword_test.cpp:(.text+0x344): undefined reference to `bw::numword::~numword()'
+C:\Users\haruyasu\AppData\Local\Temp\ccolJGUg.o:numword_test.cpp:(.text+0x357): undefined reference to `bw::numword::~numword()'
+collect2.exe: error: ld returned 1 exit status
