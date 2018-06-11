@@ -1,0 +1,6 @@
+C:\Users\haruyasu\AppData\Local\Temp\ccvIPNv0.o:unique_ptr.cpp:(.text+0x5f): undefined reference to `strc::value() const'
+C:\Users\haruyasu\AppData\Local\Temp\ccvIPNv0.o:unique_ptr.cpp:(.text+0xd0): undefined reference to `strc::strc(char const*)'
+C:\Users\haruyasu\AppData\Local\Temp\ccvIPNv0.o:unique_ptr.cpp:(.text+0x14a): undefined reference to `strc::strc(char const*)'
+C:\Users\haruyasu\AppData\Local\Temp\ccvIPNv0.o:unique_ptr.cpp:(.text$_ZN6notstd11make_uniqueI4strcPKcEESt10unique_ptrIT_St14default_deleteIS5_EET0_[_ZN6notstd11make_uniqueI4strcPKcEESt10unique_ptrIT_St14default_deleteIS5_EET0_]+0x2a): undefined reference to `strc::strc(char const*)'
+C:\Users\haruyasu\AppData\Local\Temp\ccvIPNv0.o:unique_ptr.cpp:(.text$_ZNKSt14default_deleteI4strcEclEPS0_[_ZNKSt14default_deleteI4strcEclEPS0_]+0x23): undefined reference to `strc::~strc()'
+collect2.exe: error: ld returned 1 exit status
